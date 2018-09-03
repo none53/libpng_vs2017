@@ -1,0 +1,3 @@
+# libpng_vs2017
+
+libpngをVisualStudio2017でビルドしたときの環境
