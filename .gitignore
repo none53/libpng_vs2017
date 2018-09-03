@@ -1,1 +1,15 @@
 # Add any directories, files, or patterns you don't want to be tracked by version control
+zip/
+src/zlib1211.zip
+src/lpng1635.zip
+src/lpng1635/lpng1635/projects/vstudio/Debug/
+src/lpng1635/lpng1635/projects/vstudio/libpng/Debug/
+src/lpng1635/lpng1635/projects/vstudio/pngstest/Debug/
+src/lpng1635/lpng1635/projects/vstudio/pngtest/Debug/
+src/lpng1635/lpng1635/projects/vstudio/pngunknown/Debug/
+src/lpng1635/lpng1635/projects/vstudio/pngvalid/Debug/
+src/lpng1635/lpng1635/projects/vstudio/zlib/Debug/
+src/lpng1635/lpng1635/projects/vstudio/.vs/
+src/lpng1635/lpng1635/projects/vstudio/pnglibconf/Release/
+src/lpng1635/lpng1635/projects/vstudio/Debug Library/
+src/lpng1635/lpng1635/projects/vstudio/libpng/Debug Library/
